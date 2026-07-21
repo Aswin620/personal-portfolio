@@ -100,7 +100,7 @@ export default function Hero() {
 
   <a
     href="/resume.pdf"
-    download="Aswin_Raj_Resume.pdf"
+    download="resume.pdf"
     className="btn btn-secondary"
   >
     <Download size={18} />
